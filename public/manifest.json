@@ -1,0 +1,16 @@
+{
+  "name": "FluxAI - AI-Powered Productivity Assistant",
+  "short_name": "FluxAI",
+  "description": "AI-powered productivity assistant that helps individuals and teams automate tasks, summarize meetings, and streamline workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
