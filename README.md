@@ -64,7 +64,7 @@ src/
 - **Visual Dividers**: SVG dividers between sections
 - **Consistent Spacing**: Professional typography and spacing
 - **Hover Effects**: Interactive elements with smooth transitions
-- **Radix UI Components**: Accessible accordion, avatar, tooltip, separator, and form components
+- **Radix UI Components**: Accessible accordion, avatar, label, and form components
 - **Shadcn/ui Styling**: Professional buttons, cards, badges with beautiful design system
 
 ## 📄 Sections
