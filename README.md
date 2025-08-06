@@ -7,7 +7,7 @@ A modern, responsive landing page showcasing an AI-powered productivity platform
 - **Modern Design**: Clean, professional interface with smooth animations
 - **Responsive Layout**: Optimized for all devices and screen sizes
 - **Component-Based Architecture**: Modular, reusable components
-- **Shadcn/ui Integration**: Professional UI components with consistent design
+- **Radix UI + Shadcn/ui**: Accessible, professional UI components with consistent design
 - **Smooth Animations**: Framer Motion powered interactions
 - **TypeScript**: Full type safety and better development experience
 - **Performance Optimized**: Fast loading and smooth interactions
@@ -16,8 +16,11 @@ A modern, responsive landing page showcasing an AI-powered productivity platform
 
 - **React 18 + TypeScript**
 - **Vite + Tailwind CSS v3.4.17**
-- **Framer Motion + Lucide React**
-- **Shadcn/ui** - Professional UI component library
+- **Radix UI** - Accessible, unstyled UI primitives
+- **Shadcn/ui** - Beautiful components built on Radix UI
+- **Framer Motion** - Smooth animations and transitions
+- **Lucide React** - Beautiful SVG icons
+- **React Hook Form + Zod** - Form handling and validation
 - **SEO optimized + PWA ready**
 
 ## 🎯 Status
@@ -61,7 +64,8 @@ src/
 - **Visual Dividers**: SVG dividers between sections
 - **Consistent Spacing**: Professional typography and spacing
 - **Hover Effects**: Interactive elements with smooth transitions
-- **Shadcn/ui Components**: Professional buttons, cards, badges, and more
+- **Radix UI Components**: Accessible accordion, avatar, tooltip, separator, and form components
+- **Shadcn/ui Styling**: Professional buttons, cards, badges with beautiful design system
 
 ## 📄 Sections
 
